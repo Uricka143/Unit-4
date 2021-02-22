@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
+- [ x ] User can compose a tweet. (4pts)
 - [ x ] User can favorite a tweet. (4pts)
 - [ x ] User can retweet a tweet. (2pts)
 
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Uricka143/Unit-4/commit/e24df12b1de341d80719d1c8ea0b70bc05cdc7e5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Uricka143/Unit-4/blob/main/IMG_2241.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
